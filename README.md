@@ -67,9 +67,13 @@
       - Quando os usuários terminarem de usar o aplicativo, eles podem fazer logout clicando no link "Sair" no menu de navegação.
    
 ## TECNOLOGIAS UTILIZADAS:
+- [**Python**:](https://github.com/VILHALVA/CURSO-DE-PYTHON) Python é uma linguagem de Programação.
+  
 - [**Django:**](https://github.com/VILHALVA/CURSO-DE-DJANGO) Um framework web de alto nível baseado em Python, que simplifica o desenvolvimento de aplicativos web complexos.
   
 - [**SQLite:**](https://github.com/VILHALVA/CURSO-DE-SQLITE) Um sistema de gerenciamento de banco de dados relacional leve e eficiente, amplamente utilizado para desenvolvimento de aplicativos web.
+  
+- [**Python com SQLITE**:](https://github.com/VILHALVA/CURSO-DE-PYTHON-COM-SQLITE) Python é uma linguagem de Programação, enquanto SQLite é um banco de dados.
 
 - [**Bootstrap:**](https://github.com/VILHALVA/CURSO-DE-BOOTSTRAP) Um framework front-end popular para desenvolvimento de interfaces de usuário responsivas e estilizadas.
 
